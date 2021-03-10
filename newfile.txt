@@ -1,7 +1,12 @@
 Hw about conflicts?
 Without fast forward branch
-Hello
+This line is created to add conflicts. Hello
 Testing new branch
+
+
+-
+-
+-
 
 -
 *
