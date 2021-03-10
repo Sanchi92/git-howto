@@ -1,2 +1,2 @@
 Check the functionality of branches in git.
-10.03test -New branch
+Branch - 10.03test -New branch
