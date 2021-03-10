@@ -1,3 +1,7 @@
+Hw about conflicts?
 Without fast forward branch
 Hello
 Testing new branch
+
+-
+*
